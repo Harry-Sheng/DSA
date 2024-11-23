@@ -10,3 +10,6 @@
 - Modeling your application in terms of well-defined structures and algorithms is the most important single step towards a solution.
 
 ## Algorithm Analysis (ADM chapter 2)
+
+- The Big Oh notation and worst-case analysis are tools that greatly simplify our ability to compare the efficiency of algorithms.
+- Logarithms arise whenever things are repeatedly halved or doubled.
