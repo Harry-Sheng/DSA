@@ -1,6 +1,6 @@
 # Here is where I store my notes on data structures and algorithms
 
-## Introduction to Algorithm Design (ADM chapter 1)
+## Algorithm Design
 
 - Reasonable-looking algorithms can be easily be incorrect. Algorithms correctness must be proven.
 - Proving correctness of algorithms need clear and precise modelling of the problem. We need the set of allowed input instances and the required properties of the algorithm's output.
@@ -9,7 +9,9 @@
 - Searching for counterexamples is the best way to disprove the correctness of a heuristic.
 - Modeling your application in terms of well-defined structures and algorithms is the most important single step towards a solution.
 
-## Algorithm Analysis (ADM chapter 2)
+## Algorithm Analysis
 
 - The Big Oh notation and worst-case analysis are tools that greatly simplify our ability to compare the efficiency of algorithms.
 - Logarithms arise whenever things are repeatedly halved or doubled.
+
+## Data Structures
